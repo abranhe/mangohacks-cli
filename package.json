@@ -1,0 +1,44 @@
+{
+  "name": "mangohacks",
+  "version": "2018.9.24",
+  "description": "The MangoHacks CLI 🍐",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo its-good"
+  },
+  "bin": {
+    "mangohacks": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abranhe/mangohacks-cli.git"
+  },
+  "keywords": [
+    "mangohacks",
+    "hackathon",
+    "hacker",
+    "porgramming",
+    "cli",
+    "miami",
+    "computer-science"
+  ],
+  "files": [
+    "cli.js",
+    "badges/",
+		"index.js"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/mangohacks-cli/issues"
+  },
+  "homepage": "https://github.com/abranhe/mangohacks-cli#readme",
+  "dependencies": {
+    "meow": "^5.0.0",
+    "opn": "^5.3.0"
+  }
+}
