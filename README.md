@@ -60,7 +60,7 @@ The MangoHacks CLI 🍐
     -h, --help        Show help message and close
     -v, --version     View package version
 
-  Feedback falgs:
+  Feedback flags:
     -m, --message     Set a feedback message
     -s, --subject     Set a feedback subject
 
